@@ -15,6 +15,7 @@
 		A8966A771B33EFF900DFC93A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8966A761B33EFF900DFC93A /* Images.xcassets */; };
 		A8966A7A1B33EFF900DFC93A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A8966A781B33EFF900DFC93A /* LaunchScreen.xib */; };
 		A8966A861B33EFFA00DFC93A /* _1___kangTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A8966A851B33EFFA00DFC93A /* _1___kangTests.m */; };
+		A8966A911B33F85D00DFC93A /* CollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A8966A901B33F85D00DFC93A /* CollectionViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,8 @@
 		A8966A7F1B33EFF900DFC93A /* 01 - kangTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "01 - kangTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8966A841B33EFFA00DFC93A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A8966A851B33EFFA00DFC93A /* _1___kangTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_1___kangTests.m"; sourceTree = "<group>"; };
+		A8966A8F1B33F85D00DFC93A /* CollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionViewCell.h; sourceTree = "<group>"; };
+		A8966A901B33F85D00DFC93A /* CollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +90,8 @@
 				A8966A6B1B33EFF900DFC93A /* AppDelegate.m */,
 				A8966A701B33EFF900DFC93A /* ViewController.h */,
 				A8966A711B33EFF900DFC93A /* ViewController.m */,
+				A8966A8F1B33F85D00DFC93A /* CollectionViewCell.h */,
+				A8966A901B33F85D00DFC93A /* CollectionViewCell.m */,
 				A8966A731B33EFF900DFC93A /* Main.storyboard */,
 				A8966A761B33EFF900DFC93A /* Images.xcassets */,
 				A8966A781B33EFF900DFC93A /* LaunchScreen.xib */,
@@ -223,6 +228,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A8966A6F1B33EFF900DFC93A /* _1___kang.xcdatamodeld in Sources */,
+				A8966A911B33F85D00DFC93A /* CollectionViewCell.m in Sources */,
 				A8966A6C1B33EFF900DFC93A /* AppDelegate.m in Sources */,
 				A8966A721B33EFF900DFC93A /* ViewController.m in Sources */,
 				A8966A691B33EFF900DFC93A /* main.m in Sources */,
@@ -416,6 +422,7 @@
 				A8966A8B1B33EFFA00DFC93A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A8966A8C1B33EFFA00DFC93A /* Build configuration list for PBXNativeTarget "01 - kangTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +431,7 @@
 				A8966A8E1B33EFFA00DFC93A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

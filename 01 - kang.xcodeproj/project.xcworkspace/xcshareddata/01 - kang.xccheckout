@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3CC05B28-EF22-4F58-8C06-36C96BFC3F21</string>
+	<key>IDESourceControlProjectName</key>
+	<string>01 - kang</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>014EF5F6277E0B6A9B5171E0F713A1A325ED1C24</key>
+		<string>https://github.com/kangJiastar/01---kang.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>01 - kang.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>014EF5F6277E0B6A9B5171E0F713A1A325ED1C24</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kangJiastar/01---kang.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>014EF5F6277E0B6A9B5171E0F713A1A325ED1C24</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>014EF5F6277E0B6A9B5171E0F713A1A325ED1C24</string>
+			<key>IDESourceControlWCCName</key>
+			<string>01%20-%20kang</string>
+		</dict>
+	</array>
+</dict>
+</plist>
